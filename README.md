@@ -1,4 +1,7 @@
-# React + Vite
+# my-react-portfolio
+Portfolio Creation Web App inspired by EdRoh
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
