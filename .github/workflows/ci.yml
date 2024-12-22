@@ -1,4 +1,4 @@
-name: NGO Website CI/CD
+name: my-react-portfolio
 
 on:
   push:
